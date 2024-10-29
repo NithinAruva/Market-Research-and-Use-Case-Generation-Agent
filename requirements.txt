@@ -1,0 +1,5 @@
+streamlit
+crewai
+crewai-tools
+langchain-community>=0.2.11
+tavily-python
