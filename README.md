@@ -80,6 +80,7 @@ The project was structured into several key components, which include the develo
    ```
 ![Screenshot 2024-11-09 201859](https://github.com/user-attachments/assets/a4673c6f-ef6b-4fd7-9f3b-3f5dfaf45405)
 ![Screenshot 2024-11-09 201935](https://github.com/user-attachments/assets/e8bccf1f-e1b1-4bea-865e-3ee50c73c76f)
+![Screenshot 2024-11-09 202517](https://github.com/user-attachments/assets/40283ec9-1b91-427c-a9bf-cdd53bc57498)
 ![Screenshot 2024-11-09 202046](https://github.com/user-attachments/assets/3b1747b4-1fc8-4b3f-9000-36fbbcc33cca)
 ![Screenshot 2024-11-09 202123](https://github.com/user-attachments/assets/b992d306-510f-4f6c-ab42-08e68da85f31)
 
