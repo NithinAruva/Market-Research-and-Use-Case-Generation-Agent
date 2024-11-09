@@ -43,7 +43,7 @@ The project was structured into several key components, which include the develo
 - **Streamlit**: Provides the web-based UI for user input and result display.
 - **CrewAI**: Used to configure and execute the AI agents.
 - **LangChain**: Framework for facilitate the integration of large language models.
-- **Groq LLM**:  Provides Large Language Model.
+- **Groq API**:  Facilitates the integration of large language models.
 - **TavilySearchResults**: Provides real-time, accurate, and unbiased information, enabling AI applications to retrieve and process data efficiently.
 
 
