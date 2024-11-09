@@ -58,7 +58,7 @@ The project was structured into several key components, which include the develo
 2. Set up a virtual environment:
    ```bash
    python3 -m venv venv
-   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+   venv\Scripts\activate
    ```
 
 3. Install dependencies:
